@@ -1,3 +1,6 @@
+# DEPRECATE
+This repostiory has been replaced by https://github.com/AnalogJ/docker-libgit2-xgo
+
 # crossbuild
 :earth_africa: multiarch cross compiling environments
 
